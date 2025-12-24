@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Juros Compostos FCFA",
+  "description": "Uma calculadora financeira completa para simular o crescimento de investimentos com juros compostos, incluindo gráficos de evolução, tabelas detalhadas e guias educativos, totalmente adaptada para a moeda FCFA.",
+  "requestFramePermissions": []
+}
